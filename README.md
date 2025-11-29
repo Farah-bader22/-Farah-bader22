@@ -3,9 +3,8 @@
         <img src="https://avatars.githubusercontent.com/u/74382583?v=4" alt="Farah Bader Avatar" width="180" height="180" style="border-radius: 50%; border: 5px solid #4FC08D;">
     </a>
     
-    # Farah Bader 👋 
-    ## 🚀 Computer Systems Engineer | Full Stack Developer
-    ### Specializing in High-Performance Vue.js & Scalable Laravel Architectures.
+    # Hi there! I'm Farah Bader 👋 
+    ## Computer Systems Engineer | Full Stack Developer specializing in the Vue.js Ecosystem.
     
     <p>
         <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4FC08D?style=for-the-badge&logo=slack&logoColor=white" alt="Open to Work Status"/>
