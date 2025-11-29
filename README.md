@@ -1,77 +1,113 @@
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/farah-bader-528994379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://avatars.githubusercontent.com/u/74382583?v=4" alt="Farah Bader Avatar" width="150" height="150" style="border-radius: 50%;">
-  </a>
-  
-  <h1>Hi there! I'm Farah Bader 👋</h1>
-  
-  <h3>Computer Systems Engineer | Full Stack Developer specializing in the Vue.js Ecosystem.</h3>
-</div>
 
----
+<!-- Avatar -->
+<a href="https://www.linkedin.com/in/farah-bader">
+  <img src="https://avatars.githubusercontent.com/u/74382583?v=4" 
+       width="165" 
+       style="border-radius: 50%; border: 3px solid #d4af37;">
+</a>
 
-### ✨ My Professional Bio: The Full Stack Vision
+<br><br>
 
-> Passionate about transforming complex visions into seamless, integrated software solutions. I combine engineering precision with a creative touch, mastering interactive user interfaces using **Vue.js** and building robust, scalable backends with **Laravel**. My goal is to deliver high-value technical products with exceptional performance and maintainability.
+# <span style="color:#d4af37;">Hi, I'm Farah Bader 👋</span>
 
----
-
-### 🚀 Tech Stack & Core Expertise
-
-<div align="center">
-  <h4>Frontend Development (Vue Ecosystem)</h4>
-  <p>
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <br>
-    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-    <img alt="Vuex" src="https://img.shields.io/badge/-Vuex-4FC08D?style=flat-square&logo=vuex&logoColor=white" />
-    <img alt="Pinia" src="https://img.shields.io/badge/-Pinia-FFBF69?style=flat-square&logo=pinia&logoColor=black" />
-    <img alt="Vue Router" src="https://img.shields.io/badge/-Vue%20Router-4FC08D?style=flat-square&logo=vue%20router&logoColor=white" />
-    <img alt="PrimeVue" src="https://img.shields.io/badge/-PrimeVue-007AFF?style=flat-square&logo=primevue&logoColor=white" />
-  </p>
-  
-  <h4>Backend & Database</h4>
-  <p>
-    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-    <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  </p>
-  
-  <h4>Tools & Design</h4>
-  <p>
-    <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-    <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-    <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" />
-  </p>
-</div>
-
----
-
-### 📊 GitHub Activity & Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farah-bader22&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="Farah Bader GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farah-bader22&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Top Languages" />
-</p>
-
----
-
-### 🌐 Let's Connect!
-
-<p align="center">
-  <a href="mailto:farahbader104@gmail.com">
-    <img src="https://img.shields.io/badge/Email-farahbader104@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/farah-bader-528994379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-Farah%20Bader-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+### <span style="color:#e5c97b;">Computer Systems Engineer</span>  
+### <span style="color:#d4af37;">Full Stack Developer — Vue.js Ecosystem Specialist</span>
 
 <br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="100%"/>
+
+</div>
+
+---
+
+## 🖤✨ **About Me**
+I am a Computer Systems Engineer and a passionate Full Stack Developer specializing in the **Vue.js ecosystem** for frontend and **Laravel** for backend development.
+
+I bring together:
+- Precision in engineering  
+- Elegant UI/UX styling  
+- Smooth, high-performance user experiences  
+
+My goal is to build scalable digital products with clean architecture and long-term maintainability.
+
+---
+
+## 👑 **Tech Stack — Black × Gold Edition**
+
+<div align="center">
+
+### ⭐ Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=d4af37"/>
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=d4af37"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=d4af37"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=d4af37"/>
+  <br>
+  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Vuex-000000?style=for-the-badge&logo=vuex&logoColor=d4af37"/>
+  <img src="https://img.shields.io/badge/Pinia-000000?style=for-the-badge&logo=pinia&logoColor=FFBF69"/>
+  <img src="https://img.shields.io/badge/PrimeVue-000000?style=for-the-badge&logo=primevue&logoColor=d4af37"/>
+</p>
+
+### ⭐ Backend
+<p>
+  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=d4af37"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=d4af37"/>
+</p>
+
+### ⭐ Tools
+<p>
+  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=d4af37"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=d4af37"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=d4af37"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=d4af37"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-000000?style=for-the-badge&logo=adobe-xd&logoColor=d4af37"/>
+</p>
+
+</div>
+
+---
+
+## 🧿 **GitHub Stats — Elegant Mode**
+
+<div align="center">
+
+<img height="165"
+     src="https://github-readme-stats.vercel.app/api?username=Farah-bader22&show_icons=true&theme=tokyonight&hide_border=true&icon_color=d4af37&title_color=d4af37&text_color=cfcfcf"/>
+
+<img height="165"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farah-bader22&layout=compact&theme=tokyonight&hide_border=true&title_color=d4af37&text_color=cfcfcf"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farah-bader22&theme=tokyonight&hide_border=true&ring=d4af37&fire=d4af37&currStreakLabel=d4af37"/>
+
+</div>
+
+---
+
+## ✉️ **Contact Me**
+
+<div align="center">
+
+<a href="mailto:farahbader104@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=d4af37"/>
+</a>
+
+<a href="https://www.linkedin.com/in/farah-bader">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=d4af37"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  
+### ✨ *Crafted with elegance & minimal luxury*
+
+</div>
